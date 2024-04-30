@@ -1,13 +1,11 @@
 
 # Olá, eu sou o Fabrício Mendes 👋🏽
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabriciomendes.exe/)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
 )](https://steamcommunity.com/id/fabriciomendes/)
 [![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://fabriciomendes.pages.dev/)
 
 ## Tecnologias que uso diariamente 
-
 [![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
@@ -22,8 +20,6 @@
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
 ## Extras
-
-
 [![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-CC0000?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.org/)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
@@ -31,10 +27,7 @@
 [![Prisma](https://img.shields.io/badge/Prisma-00C48C?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
 [![Sequelize](https://img.shields.io/badge/Sequelize-5357EC?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org/)
 
-
-
 ## Estatísticas
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fafamendes&show_icons=true&hide=contribs,issues&theme=dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fafamendes&show_icons=true&hide=contribs,issues&theme=dracula,prs)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fafamendes&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fafamendes&layout=pie&theme=dark)]
