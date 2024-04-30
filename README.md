@@ -30,4 +30,4 @@
 ## Estatísticas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fafamendes&show_icons=true&hide=contribs,issues&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fafamendes&layout=pie&theme=dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fafamendes&layout=pie&theme=dark)
