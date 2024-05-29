@@ -4,6 +4,8 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
 )](https://steamcommunity.com/id/fabriciomendes/)
 [![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://fabriciomendes.pages.dev/)
+[![Lich](https://img.shields.io/badge/Lich-online-green)](https://lich-dfq.pages.dev/)
+
 
 ## Tecnologias que uso diariamente 
 [![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
