@@ -43,3 +43,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fafamendes&show_icons=true&hide=contribs,issues&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fafamendes&layout=pie&theme=dark)
+
+
+## Let's dance!🕺🏽
+![Everybody dance](https://i.pinimg.com/originals/c1/b0/b4/c1b0b43ff8a2ed7a4f68aff8a9fc8974.gif)
+
+
